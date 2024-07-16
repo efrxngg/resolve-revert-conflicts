@@ -1,6 +1,6 @@
 # resolve-revert-conflicts
 
-One
-Two
-Three
-Four
+ONE
+TWO
+THREE
+FOUR
